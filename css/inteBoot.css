@@ -17,3 +17,7 @@
 .brilloOscuro {
     filter:brightness(50%);
 }
+
+.texto {
+    color: black;
+}
